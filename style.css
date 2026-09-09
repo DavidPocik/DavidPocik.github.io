@@ -12,6 +12,8 @@ header {
 }
 
 header a{
+    margin-top:60px;
+    margin-right:15px;
     text-decoration: none;
     color:white;
 }
@@ -36,6 +38,8 @@ text-align: left;
 }
 
 .title-main {
+    margin-top:60px;
+    margin-left:15px;
     font-family: "Irish Grover";
     text-align: left;
     margin-right: 50px;
