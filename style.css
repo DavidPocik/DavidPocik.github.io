@@ -4,10 +4,30 @@ body {
 
 header {
     background-color: #2D192B;
+    color: white;
+    padding: 15px;
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+
+header a{
+    text-decoration: none;
+    color:white;
+}
+
+.logo{
+text-align: left;
+}
+
+.title-main {
+    font-family: "Irish Grover";
+    text-align: left;
+}
+
+.search{
+    text-align: right;
 }
 
 main {
@@ -31,19 +51,11 @@ main img {
     margin-right: auto;
 }
 
-h1 {
-    font-family: "Irish Grover";
-    text-align: center;
-}
 
 p {
     font-family: "Irish Grover";
 }
 
-.title-main {
-    font-family: "Irish Grover";
-    display: flex;
-}
 
 h3 {
     font-family: "Irish Grover";
