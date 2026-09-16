@@ -4,10 +4,26 @@ body {
 
 header {
     background-color: #2D192B;
+    color: white;
+    padding: 15px;
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    padding: 20px;
+    text-decoration: none;
+}
+
+header a{
+    margin-top:60px;
+    margin-right:15px;
+    text-decoration: none;
+    color:white;
+}
+header a:hover{
+    text-decoration: underline;
+}
+
+.logo_taos{
+    display: flex; 
+
 }
 
 main {
