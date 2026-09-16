@@ -64,7 +64,22 @@ main img{
     width: 400px;
     height: 400px;
 }
+#kontakt{ 
+    text-align: center;
+    margin-top: auto;
+}
 
+#onas{
+    text-align: center;
+    margin-top: auto;
+}
+footer {
+    height:60px;
+    background-color: #2D192B;
+    color:white; 
+    text-align: center;
+
+}
 
 h1{font-family:"Irish Grover";
     text-align: center;
