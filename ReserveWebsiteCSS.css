@@ -26,6 +26,28 @@ header a:hover{
 
 }
 
+.right{
+    display: flex;
+    font-size: large;
+    font-weight: bold;
+}
+
+.logo{
+text-align: left;
+}
+
+.title-main {
+    margin-top:60px;
+    margin-left:15px;
+    font-family: "Irish Grover";
+    text-align: left;
+    margin-right: 50px;
+}
+
+.search{
+    text-align: right;
+}
+
 
 main {
     text-align: center;
